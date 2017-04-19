@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee66f9ee-3c5c-4505-9069-377422ee53a6" name="Нефтеюганский колледж" url="http://barhangkom.temp.swtest.ru/">
+        <fileTransfer host="barhangkom.temp.swtest.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
